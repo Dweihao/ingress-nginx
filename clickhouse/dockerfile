@@ -1,1 +1,1 @@
-from arm64v8/clickhouse:22.2.3
+from arm64v8/clickhouse:25.8.24.21
